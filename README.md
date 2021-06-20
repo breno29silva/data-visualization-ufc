@@ -1,6 +1,6 @@
 ## Bem vindo a página de Vizualiação de dados
 
-Esta página tem como objetivo aprsentar todas as vizualiçãoes desenvolvidas no decorrer da disciplina **CK0266 - Vizualição de Dados 2021.1** ministrada pela professora [Dra. Emanuele](https://github.com/emanueles)
+Esta página tem como objetivo aprsentar todas as vizualiçãoes desenvolvidas no decorrer da disciplina **CK0266 - Vizualição de Dados 2021.1** ministrada pela professora [Dra. Emanuele](https://github.com/emanueles).
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
