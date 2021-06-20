@@ -1,6 +1,7 @@
 ## Bem vindo a página de Vizualiação de dados
 
-You can use the [editor on GitHub](https://github.com/breno29silva/data-visualization-ufc/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Esta página tem como objetivo aprsentar todas as vizualiçãoes desenvolvidas no decorrer da disciplina de Vizualição de dados 2021.1 ministrada pela professora Dr [Emanuele](https://github.com/emanueles)
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
