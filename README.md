@@ -5,15 +5,12 @@ Esta página tem como objetivo aprsentar todas as vizualiçãoes desenvolvidas n
 ### Aula 16/06/2021
 
 - [index01](https://github.com/breno29silva/data-visualization-ufc/blob/main/basic/index01.html)
-
-```markdown
-- [index](https://github.com/breno29silva/data-visualization-ufc/blob/main/basic/index01.html)
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+- [index02](https://github.com/breno29silva/data-visualization-ufc/blob/main/basic/index02.html)
+- [index03](https://github.com/breno29silva/data-visualization-ufc/blob/main/basic/index03.html)
+- [index04](https://github.com/breno29silva/data-visualization-ufc/blob/main/basic/index04.html)
+- [index05](https://github.com/breno29silva/data-visualization-ufc/blob/main/basic/index05.html)
+- [index06](https://github.com/breno29silva/data-visualization-ufc/blob/main/basic/index06.html)
+- [index07](https://github.com/breno29silva/data-visualization-ufc/blob/main/basic/index07.html)
+- [index08](https://github.com/breno29silva/data-visualization-ufc/blob/main/basic/index08.html)
+- [index09](https://github.com/breno29silva/data-visualization-ufc/blob/main/basic/index09.html)
+- [index10](https://github.com/breno29silva/data-visualization-ufc/blob/main/basic/index10.html)
