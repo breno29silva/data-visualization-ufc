@@ -2,21 +2,11 @@
 
 Esta página tem como objetivo aprsentar todas as vizualiçãoes desenvolvidas no decorrer da disciplina **CK0266 - Vizualição de Dados 2021.1** ministrada pela professora [Dra. Emanuele](https://github.com/emanueles).
 
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Aula 16/06/2021
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
+- [index01.html](https://github.com/breno29silva/data-visualization-ufc/blob/main/basic/index01.html)
 - List
 
 1. Numbered
