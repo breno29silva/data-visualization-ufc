@@ -4,7 +4,7 @@ Esta página tem como objetivo aprsentar todas as vizualiçãoes desenvolvidas n
 
 ### Aula 16/06/2021
 
-- [index01](https://github.com/breno29silva/data-visualization-ufc/blob/main/basic/index01.html)
+- [index01](basic/index01.html)
 - [index02](https://github.com/breno29silva/data-visualization-ufc/blob/main/basic/index02.html)
 - [index03](https://github.com/breno29silva/data-visualization-ufc/blob/main/basic/index03.html)
 - [index04](https://github.com/breno29silva/data-visualization-ufc/blob/main/basic/index04.html)
